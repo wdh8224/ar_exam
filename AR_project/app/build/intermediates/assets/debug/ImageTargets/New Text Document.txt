@@ -1,0 +1,3 @@
+<p style="margin-bottom:3px;"><strong>Targets</strong></p>
+            <p style="margin-top:0px;"><a href="http://developer.vuforia.com/sites/default/files/sample-apps/targets/imagetargets_targets.pdf">Stones, Chips and Tarmac</a></p>
+            

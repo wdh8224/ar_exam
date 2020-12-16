@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tarmac" size="0.247 0.173" />
+    <ImageTarget name="colorful_daisies-wallpaper-1920x1080" size="0.31616 0.177942" />
+    <ImageTarget name="cross" size="0.144248 0.2064466666" />
+  </Tracking>
+</QCARConfig>

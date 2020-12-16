@@ -1,0 +1,1497 @@
+[
+    {
+        "outputFile": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 69,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 66,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endLine": 20,
+                    "endColumn": 11,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 66,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 64,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 64,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endLine": 27,
+                    "endColumn": 11,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 65,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 65,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 66,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endLine": 35,
+                    "endColumn": 11,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 68,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 65,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 66,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endLine": 47,
+                    "endColumn": 11,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 64,
+                    "endOffset": 2712
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2717,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endLine": 63,
+                    "endColumn": 11,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 64,
+                    "endOffset": 3026
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3031,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 3234
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3239,
+                    "endColumn": 66,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 74,
+                    "endColumn": 11,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 64,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 64,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 61,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 61,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 61,
+                    "endOffset": 3756
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3761,
+                    "endColumn": 58,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 59,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 60,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 60,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 58,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 90,
+                    "endColumn": 11,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "C:\\Users\\Mina Nabil\\.android\\build-cache\\c4c55ea9d7dfa09c78bcd7ed52921152c8f3168e\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4270,
+                    "endColumn": 39,
+                    "endOffset": 4305
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4310,
+                    "endColumn": 38,
+                    "endOffset": 4344
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4349,
+                    "endColumn": 44,
+                    "endOffset": 4389
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4394,
+                    "endColumn": 63,
+                    "endOffset": 4453
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4458,
+                    "endColumn": 63,
+                    "endOffset": 4517
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4522,
+                    "endColumn": 58,
+                    "endOffset": 4576
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4581,
+                    "endColumn": 47,
+                    "endOffset": 4624
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4629,
+                    "endColumn": 39,
+                    "endOffset": 4664
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9602,
+                    "endColumn": 64,
+                    "endOffset": 9662
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9667,
+                    "endColumn": 68,
+                    "endOffset": 9731
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9736,
+                    "endColumn": 57,
+                    "endOffset": 9789
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9794,
+                    "endColumn": 48,
+                    "endOffset": 9838
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9843,
+                    "endColumn": 49,
+                    "endOffset": 9888
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9893,
+                    "endColumn": 60,
+                    "endOffset": 9949
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9954,
+                    "endColumn": 65,
+                    "endOffset": 10015
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 10020,
+                    "endColumn": 41,
+                    "endOffset": 10057
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10062,
+                    "endColumn": 49,
+                    "endOffset": 10107
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10112,
+                    "endColumn": 44,
+                    "endOffset": 10152
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 10157,
+                    "endColumn": 119,
+                    "endOffset": 10272
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 10277,
+                    "endColumn": 107,
+                    "endOffset": 10380
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 10385,
+                    "endColumn": 155,
+                    "endOffset": 10536
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10541,
+                    "endColumn": 132,
+                    "endOffset": 10669
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 10674,
+                    "endColumn": 245,
+                    "endOffset": 10915
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 10920,
+                    "endColumn": 192,
+                    "endOffset": 11108
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 11113,
+                    "endColumn": 141,
+                    "endOffset": 11250
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 11255,
+                    "endColumn": 117,
+                    "endOffset": 11368
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 11373,
+                    "endColumn": 254,
+                    "endOffset": 11623
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 11628,
+                    "endColumn": 90,
+                    "endOffset": 11714
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 11719,
+                    "endColumn": 99,
+                    "endOffset": 11814
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 11819,
+                    "endColumn": 82,
+                    "endOffset": 11897
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 11902,
+                    "endColumn": 139,
+                    "endOffset": 12037
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 12042,
+                    "endColumn": 87,
+                    "endOffset": 12125
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 12130,
+                    "endColumn": 127,
+                    "endOffset": 12253
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 12258,
+                    "endColumn": 82,
+                    "endOffset": 12336
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 12341,
+                    "endColumn": 120,
+                    "endOffset": 12457
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 12462,
+                    "endColumn": 88,
+                    "endOffset": 12546
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 12551,
+                    "endColumn": 113,
+                    "endOffset": 12660
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 12665,
+                    "endColumn": 84,
+                    "endOffset": 12745
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 12750,
+                    "endColumn": 149,
+                    "endOffset": 12895
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 12900,
+                    "endColumn": 78,
+                    "endOffset": 12974
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 12979,
+                    "endColumn": 119,
+                    "endOffset": 13094
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 13099,
+                    "endColumn": 88,
+                    "endOffset": 13183
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 13188,
+                    "endColumn": 115,
+                    "endOffset": 13299
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 13304,
+                    "endColumn": 86,
+                    "endOffset": 13386
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 13391,
+                    "endColumn": 104,
+                    "endOffset": 13491
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 13496,
+                    "endColumn": 74,
+                    "endOffset": 13566
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 13571,
+                    "endColumn": 116,
+                    "endOffset": 13683
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 13688,
+                    "endColumn": 77,
+                    "endOffset": 13761
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 13766,
+                    "endColumn": 45,
+                    "endOffset": 13807
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5506,
+                        "endColumn": 45,
+                        "endOffset": 5547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 13812,
+                    "endColumn": 63,
+                    "endOffset": 13871
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 13876,
+                    "endColumn": 72,
+                    "endOffset": 13944
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 13949,
+                    "endColumn": 71,
+                    "endOffset": 14016
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 14021,
+                    "endColumn": 44,
+                    "endOffset": 14061
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 14066,
+                    "endColumn": 40,
+                    "endOffset": 14102
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 14107,
+                    "endColumn": 46,
+                    "endOffset": 14149
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 14154,
+                    "endColumn": 68,
+                    "endOffset": 14218
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 14223,
+                    "endColumn": 53,
+                    "endOffset": 14272
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 14277,
+                    "endColumn": 49,
+                    "endOffset": 14322
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 14327,
+                    "endColumn": 51,
+                    "endOffset": 14374
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 14379,
+                    "endColumn": 47,
+                    "endOffset": 14422
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 14427,
+                    "endColumn": 53,
+                    "endOffset": 14476
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 14481,
+                    "endColumn": 46,
+                    "endOffset": 14523
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 14528,
+                    "endColumn": 49,
+                    "endOffset": 14573
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 14578,
+                    "endColumn": 51,
+                    "endOffset": 14625
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 14630,
+                    "endColumn": 62,
+                    "endOffset": 14688
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 14693,
+                    "endColumn": 56,
+                    "endOffset": 14745
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 14750,
+                    "endColumn": 99,
+                    "endOffset": 14845
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 14850,
+                    "endColumn": 96,
+                    "endOffset": 14942
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 14947,
+                    "endColumn": 50,
+                    "endOffset": 14993
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 14998,
+                    "endColumn": 68,
+                    "endOffset": 15062
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 15067,
+                    "endColumn": 44,
+                    "endOffset": 15107
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 15112,
+                    "endColumn": 73,
+                    "endOffset": 15181
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 15186,
+                    "endColumn": 71,
+                    "endOffset": 15253
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 15258,
+                    "endColumn": 92,
+                    "endOffset": 15346
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 15351,
+                    "endColumn": 68,
+                    "endOffset": 15415
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 15420,
+                    "endColumn": 107,
+                    "endOffset": 15523
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 15528,
+                    "endColumn": 72,
+                    "endOffset": 15596
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 15601,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 15823
+                },
+                "from": {
+                    "file": "D:\\coding\\vuforia\\vuforia-samples-core-android-6-2-10\\VuforiaSamples-6-2-10\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
